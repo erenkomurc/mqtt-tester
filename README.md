@@ -21,3 +21,8 @@ Bu değerler "config.json" dosyasında verilebilir ya da program çalışırken 
 
  - ### Mode 2: Echo Test
    sub_topic'e subscribe olur ve payload içeriğini verilen aralıklarla pub_topic'e gönderir. Gönderilen her mesajın sonuna bir ID eklenir. Bu ID'ler gönderilen her mesajın sub_topic'ten alınıp alınmadığını görmek için kullanılır. Programın sonunda hangi mesajların geri dönmediğini ve geri dönmeyen toplam mesaj sayısı görüntülenir.
+
+---
+dist/mqtt_tester: Linux Executable
+
+dist/mqtt_tester.exe: Windows Executable
