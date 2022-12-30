@@ -1,0 +1,11 @@
+{
+    "ip": "localhost",
+    "port": 1883,
+    "username": "rojen",
+    "password": "123",
+    "sub_topic": "subtest",
+    "pub_topic": "pubtest",
+    "payload_file_path": "/home/rojen/Documents/gesk/mqtt_app/payload.txt",
+    "interval": 200,
+    "count": 5
+}
