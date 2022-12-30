@@ -3,3 +3,8 @@ payload.txt
 
 # Config File
 config.json
+
+# PyInstaller Build Files
+build/
+build\
+main.spec
